@@ -132,4 +132,6 @@ Hotels often offer discounts during special seasons or for loyal customers. The 
 - **Unique Constraints**: Ensures that certain columns (e.g., phone number, email, government ID) have unique values.
 - **Data Range Validation**: Columns like rating and discount_percentage have validation to ensure they fall within acceptable ranges (e.g., rating between 1 and 5).
 
+## ERD
+
 ![Hotel Management System ERD](./ER_Diagram.png "Database Design")
